@@ -102,3 +102,12 @@ p {
 .links:hover {
     background-color: #fcc600
 }
+html{
+    scroll-behavior: smooth;
+}
+a{
+    text-decoration: none;
+}
+.article:hover{
+    color: fuchsia
+}
